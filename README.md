@@ -1,10 +1,5 @@
-
-<!---
 # Feyisel Jemal Beketa   
-
-<img src="https://user-images.githubusercontent.com/53315778/126830331-f5f98cb3-12fb-4f64-82d6-50964b2cd240.png" height=180 width=180 alt="Github image"/>
-
-### A computer engineering students with various of interests in the development of software
+### A computer engineering students
   A hardworking, highly motivated , goal-oriented young man, who always strive to
   achieve the highest standard at any given task and always thriving to enhance
   self-knowledge in various areas processing excellent analytical skills coupled with
@@ -30,7 +25,7 @@
 - url-shortner 
 
 
-## Please check out my [repositories]() for more info on projects
+## Please check out my [https://github.com/feyisel?tab=repositories]() for more info on projects
 
 ### Activities
 - 👋 Hi, I’m @feyisel
@@ -42,10 +37,7 @@
 ### HOBBIES
 - Reading Books
 - Listing Podcast
--Football
-
-### For more professional side information, Please visit my [personal_portfolio](https://chrisjeremie.ga/)
-### Follow me on [Twitch](https://www.twitch.tv/5thfader_), and we can have a live coding session  
+-Football 
 
 ## Languages and Tools:
 
@@ -54,7 +46,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
